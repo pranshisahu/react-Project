@@ -1,7 +1,9 @@
 import React from 'react'
+
+
 const Navbar = () => {
   return (
-    <div >
+    <>
      
       <div>
       {/* <div >
@@ -15,7 +17,7 @@ const Navbar = () => {
           <li className='mr-4 p-2'><a href="contact us" className='flex-1'>Contact us</a></li>
         </ul>
       </div>
-    </div>
+    </>
   )
 }
 
